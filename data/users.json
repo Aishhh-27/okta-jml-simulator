@@ -1,0 +1,38 @@
+[
+    {
+        "employee_id": "EMP004",
+        "name": "Maria Johnson",
+        "email": "maria@acmecloud.example",
+        "department": "Support",
+        "status": "suspended",
+        "groups": [],
+        "applications": []
+    },
+    {
+        "employee_id": "EMP005",
+        "name": "John Smith",
+        "email": "john@acmecloud.example",
+        "department": "Support",
+        "status": "active",
+        "groups": [
+            "support"
+        ],
+        "applications": [
+            "Zendesk",
+            "Jira"
+        ]
+    },
+    {
+        "employee_id": "EMP006",
+        "name": "Emily Davis",
+        "email": "emily@acmecloud.example",
+        "department": "Sales",
+        "status": "active",
+        "groups": [
+            "sales"
+        ],
+        "applications": [
+            "Salesforce"
+        ]
+    }
+]

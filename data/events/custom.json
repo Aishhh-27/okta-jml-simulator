@@ -1,0 +1,7 @@
+{
+    "event_type": "JOINER",
+    "employee_id": "EMP006",
+    "name": "Emily Davis",
+    "email": "emily@acmecloud.example",
+    "department": "Sales"
+}

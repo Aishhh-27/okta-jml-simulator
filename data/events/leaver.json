@@ -1,0 +1,7 @@
+{
+    "event_type": "LEAVER",
+    "employee_id": "EMP004",
+    "name": "Maria Johnson",
+    "email": "maria@acmecloud.example",
+    "department": "Support"
+}

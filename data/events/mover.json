@@ -1,0 +1,8 @@
+{
+    "event_type": "MOVER",
+    "employee_id": "EMP005",
+    "name": "John Smith",
+    "email": "john@acmecloud.example",
+    "old_department": "Engineering",
+    "new_department": "Support"
+}

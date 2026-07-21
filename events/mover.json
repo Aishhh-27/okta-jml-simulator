@@ -1,0 +1,8 @@
+{
+  "event_type": "MOVER",
+  "employee": {
+    "email": "alice.johnson@acmecloud.example",
+    "department": "Finance",
+    "job_title": "Financial Analyst"
+  }
+}

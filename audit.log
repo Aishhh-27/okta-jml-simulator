@@ -1,0 +1,8 @@
+2026-07-21T18:49:18.331287 | event=LEAVER | employee=maria@acmecloud.example | action=User suspended and all access removed | result=SUCCESS
+2026-07-21T19:13:35.359758 | event=JOINER | employee=john@acmecloud.example | action=User created and access assigned | result=SUCCESS
+2026-07-21T19:15:00.202912 | event=MOVER | employee=john@acmecloud.example | action=Department and access updated | result=SUCCESS
+2026-07-21T19:18:27.530664 | event=MOVER | employee=john@acmecloud.example | action=Department and access updated | result=SUCCESS
+2026-07-21T19:18:34.575582 | event=LEAVER | employee=maria@acmecloud.example | action=User suspended and all access removed | result=SUCCESS
+2026-07-21T19:21:12.943590 | event=MOVER | employee=john@acmecloud.example | action=Department and access updated | result=SUCCESS
+2026-07-21T19:21:18.260566 | event=LEAVER | employee=maria@acmecloud.example | action=User suspended and all access removed | result=SUCCESS
+2026-07-21T19:21:42.926163 | event=JOINER | employee=emily@acmecloud.example | action=User created and access assigned | result=SUCCESS

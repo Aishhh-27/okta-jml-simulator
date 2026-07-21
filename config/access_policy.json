@@ -1,0 +1,14 @@
+{
+    "Engineering": {
+        "groups": ["engineering"],
+        "applications": ["GitHub", "Jira"]
+    },
+    "Support": {
+        "groups": ["support"],
+        "applications": ["Zendesk", "Jira"]
+    },
+    "Sales": {
+        "groups": ["sales"],
+        "applications": ["Salesforce"]
+    }
+}
